@@ -76,6 +76,3 @@ To set up, run:
 
 
 - The implementation emphasizes numerical stability (log-domain computation + variance smoothing) and scikit-learn-style interfaces (fit, predict, predict_proba).
-=======
-# Final-Project---gaussian-naive-bayes-
->>>>>>> d82f5b1ee6f880b36e2442984eca8f7d2740845b
