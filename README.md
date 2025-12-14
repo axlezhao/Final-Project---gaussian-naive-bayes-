@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gaussian Naive Bayes (GNB) Classification Project
 
 This project implements and evaluates **Gaussian Naive Bayes (GNB)** as a probabilistic, generative classifier on the **Iris** dataset. The workflow includes a comparison against **scikit-learn’s `GaussianNB`** to validate correctness and reproducibility.
@@ -74,6 +73,7 @@ To set up, run:
 ## Notes
 
 - Results should be reproducible by using the pinned package versions above and running the project in the gaussnb conda environment.
+
 
 - The implementation emphasizes numerical stability (log-domain computation + variance smoothing) and scikit-learn-style interfaces (fit, predict, predict_proba).
 =======
