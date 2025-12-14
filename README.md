@@ -7,7 +7,7 @@ This project implements and evaluates **Gaussian Naive Bayes (GNB)** as a probab
 - `iris.csv` and `iris.rst.txt` — the source data file of `load_iris` dataset.
 - `environment.yaml` — environment setup file.
 -  `Final Presentation.pdf` — pdf file of the presentation of the project.
--  `code.pdf` — pdf file of the `Final_Project.ipynb`.
+-  `report.pdf` — pdf file of the `Final_Project.ipynb`.
 ## Authors / Contact
 - Jiaqi Zhang — jiaqi_zhang7@brown.edu  
 - Yize Zhao — yize_zhao@brown.edu  
@@ -76,3 +76,4 @@ To set up, run:
 
 
 - The implementation emphasizes numerical stability (log-domain computation + variance smoothing) and scikit-learn-style interfaces (fit, predict, predict_proba).
+
